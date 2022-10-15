@@ -1,0 +1,9 @@
+.date{
+    border-top: 1px solid;
+    display: flex;
+    margin-top: 80px;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column-reverse;
+
+}

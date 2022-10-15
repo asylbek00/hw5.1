@@ -1,0 +1,10 @@
+.picture{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.author{
+    width: 200px;
+    height: 150px;
+    background-color: rgb(173, 94, 94);
+}
